@@ -2,8 +2,6 @@
     "name": "paptuc/Ext",
     "description": "Ext Direct library",
     "minimum-stability": "stable",
-    "version": "2.0.0-stable",
-    //https://github.com/Martin17/ExtDirect
     "repository": "https://github.com/Martin17/ExtDirect",
     "authors": [
         {
@@ -16,7 +14,6 @@
     ],
     "autoload": {
         "psr-0": {
-            //"Ratchet\\Tests": "tests",
             "Ext": "src"
         }
     },
