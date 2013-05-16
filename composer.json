@@ -3,14 +3,15 @@
     "description": "Ext Direct library",
     "minimum-stability": "stable",
     "version": "2.0.0-stable",
+    //https://github.com/Martin17/ExtDirect
+    "repository": "https://github.com/Martin17/ExtDirect",
     "authors": [
         {
             "name": "J. Bruni"
         },
         {
             "name": "Martín Panizzo",
-            "email": "marpan@papeleratucuman.com.ar",
-            "role": "Co-Developer"
+            "email": "marpan@papeleratucuman.com.ar"
         }
     ],
     "autoload": {
