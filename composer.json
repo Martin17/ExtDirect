@@ -1,0 +1,25 @@
+{
+    "name": "paptuc/Ext",
+    "description": "Ext Direct library",
+    "minimum-stability": "stable",
+    "version": "2.0.0-stable",
+    "authors": [
+        {
+            "name": "J. Bruni"
+        },
+        {
+            "name": "Martín Panizzo",
+            "email": "marpan@papeleratucuman.com.ar",
+            "role": "Co-Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            //"Ratchet\\Tests": "tests",
+            "Ext": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
