@@ -1,8 +1,8 @@
 {
     "name": "paptuc/Ext",
     "description": "Ext Direct library",
-    "minimum-stability": "stable",
-    "repository": "https://github.com/Martin17/ExtDirect",
+    "repository": "https://github.com/Martin17/ExtDirect
+    "license":"CC-BY-NC-2.5",",
     "authors": [
         {
             "name": "J. Bruni"
