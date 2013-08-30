@@ -1,8 +1,10 @@
 {
-    "name": "paptuc/ext",
+    "name": "paptuc/extjs",
     "description": "Ext Direct library",
     "homepage": "https://github.com/Martin17/ExtDirect",
-    "license":"CC-BY-NC-2.5",
+    "type": "library",
+    "license": "CC-BY-NC-2.5",
+    "keywords": ["extjs"],
     "authors": [
         {
             "name": "J. Bruni"
