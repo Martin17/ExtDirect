@@ -243,8 +243,8 @@ JAVASCRIPT;
     static public function get_api_javascript_mvc()
     {
         $template = <<<JAVASCRIPT
-    Ext.ns('[%namespace%]');
-    [%descriptor%] = [%actions%];
+        Ext.ns('[%namespace%]');
+        [%descriptor%] = [%actions%];
 
 JAVASCRIPT;
 
