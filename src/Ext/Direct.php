@@ -243,11 +243,8 @@ JAVASCRIPT;
     static public function get_api_javascript_mvc()
     {
         $template = <<<JAVASCRIPT
-if ( Ext.syncRequire ){
-	Ext.syncRequire( 'Ext.direct.Manager' ); 
-}
-Ext.ns( '[%namespace%]' );
-[%descriptor%] = [%actions%];
+    Ext.ns('[%namespace%]');
+    [%descriptor%] = [%actions%];
 
 JAVASCRIPT;
 
